@@ -13,7 +13,7 @@
 </div>
 
 
-## 🔧 Learning
+## Learning
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<!-- Programming Languages. -->
@@ -36,12 +36,12 @@
 <div align='left' style="display: flex; justify-content: space-between;">
 ---
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>🔧 GitHub Stats</summary>
 
   <img align="left" alt="Mub's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mubbington&show_icons=true&theme=radical&hide_border=true" />
   
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>🔧 Most Used Languages</summary>
 
 <img align="left" alt="Mub's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubbington&show_icons=true&theme=radical" />
 
