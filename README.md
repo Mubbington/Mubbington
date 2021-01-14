@@ -28,11 +28,11 @@ I'm a high schooler from North Carolina.
  
 </a>
 </p>
-<hr>
 </div>
 
 ## GitHub Stats
 
+<div align='left' style="display: flex; justify-content: space-between;">
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>
