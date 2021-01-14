@@ -2,7 +2,7 @@
 
 ### :snowflake: Mub :snowflake:	
  I'm a high schooler from North Carolina
-- <img align="right" alt="PNG" height=250x src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" /> I’m 15 years old
+- <img align="right" alt="PNG" height=250x src="./Assets/octocat.gif" /> I’m 15 years old
 
 - How to reach me: [Discord](https://discord.bio/p/mub)
 
