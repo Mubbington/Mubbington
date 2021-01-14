@@ -1,7 +1,7 @@
 ## :snowflake: Mub :snowflake:	
  I'm a high schooler from North Carolina
 
-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> - I’m 15 Years Old
+- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> I’m 15 Years Old
 
 - How to reach me: [Discord](https://discord.bio/p/mub)
 
