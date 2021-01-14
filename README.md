@@ -10,7 +10,6 @@ I'm a high schooler from North Carolina
 	</a>
 </div>
 
-<hr>
 
 ## 🔧 Learning
 
