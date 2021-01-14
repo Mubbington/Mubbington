@@ -33,11 +33,7 @@ I'm a high schooler from North Carolina.
 
 ## GitHub Stats
 
-
-<br />
-<br />
 ---
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
