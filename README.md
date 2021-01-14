@@ -18,12 +18,13 @@ I'm a high schooler from North Carolina.
 	<!-- Programming Languages. -->
 	&emsp;
 	<a href='#'>
-		<img src='https://img.shields.io/badge/code-c%2B%2B-00599C?logoWidth=30&labelColor=black&style=for-the-badge&logo=c%2B%2B' alt='C++'>
+		<code><img src='https://img.shields.io/badge/code-c%2B%2B-00599C?logoWidth=30&labelColor=black&style=for-the-badge&logo=c%2B%2B' alt='C++'></code>
 	</a>
 	&emsp;
 	</a><br><br>
 	<p>
 	<a href="https://github.com/Mubbington">
+		
  
 </a>
 </p>
