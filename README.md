@@ -38,12 +38,12 @@
 <details>
   <summary>🔧 GitHub Stats</summary>
 
-  <img align="left" alt="Mub's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mubbington&show_icons=true&theme=radical&hide_border=true" />
+  <img align="left" alt="Mub's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mubbington&show_icons=true&theme=react&bg_color=DEG,00589B,0692E2&hide_border=true&title_color=0D1117&icon_color=0D1117" />
   
 <details>
   <summary>🔧 Most Used Languages</summary>
 
-<img align="left" alt="Mub's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubbington&show_icons=true&theme=radical" />
+<img align="left" alt="Mub's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubbington&show_icons=true&theme=react&bg_color=DEG,00589B,0692E2&hide_border=true&title_color=0D1117&icon_color=0D1117" />
 
 </details>
 
