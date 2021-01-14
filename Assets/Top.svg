@@ -1,6 +1,6 @@
 <svg height="100%" width="100%" id="bg-svg" viewBox="0 0 1440 500" xmlns="http://www.w3.org/2000/svg" class="transition duration-300 ease-in-out delay-150">
   <style>
-    transform: rotateY(180deg)
+    transform: rotateX(180deg)
   </style>
   <defs>
     <linearGradient id="gradient">
