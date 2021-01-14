@@ -1,4 +1,4 @@
-![alt text](./Assets/Top.svg)
+![alt text](./Assets/Top.png)
 
 ### :snowflake: Mub :snowflake:	
  I'm a high schooler from North Carolina
