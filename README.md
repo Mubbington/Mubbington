@@ -1,5 +1,5 @@
 ## :snowflake: Mub :snowflake:	
-##I'm a high schooler from North Carolina
+### I'm a high schooler from North Carolina
 
 - I’m 15 Years Old
 - How to reach me: [Discord](https://discord.bio/p/mub)
