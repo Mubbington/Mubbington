@@ -1,16 +1,50 @@
-### Hi there 👋
+### :snowflake: Mub :snowflake:	
+I'm a high schooler from North Carolina.
 
-<!--
-**Mubbington/Mubbington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m 15 Years Old
+- How to reach me: [Discord](https://discord.bio/p/mub)
 
-Here are some ideas to get you started:
+<div align='left' style="display: flex; justify-content: space-between;">
+	<a href='#'>
+	<img src=https://img.shields.io/badge/Discord-Mub%239838-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord = = = Mub#9838'>
+	</a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+## 🔧 Learning
+
+<div align='left' style="display: flex; justify-content: space-between;">
+	<!-- Programming Languages. -->
+	&emsp;
+	<a href='#'>
+		<img src='https://img.shields.io/badge/code-c%2B%2B-00599C?logoWidth=30&labelColor=black&style=for-the-badge&logo=c%2B%2B' alt='C++'>
+	</a>
+	&emsp;
+	</a><br><br>
+	<p>
+	<a href="https://github.com/Mubbington">
+ 
+</a>
+</p>
+<hr>
+</div>
+
+## GitHub Stats
+
+
+<br />
+<br />
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Mub's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mubbington&show_icons=true&theme=radical&hide_border=true" />
+  
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Mub's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubbington&show_icons=true&theme=radical" />
+
+</details>
