@@ -8,7 +8,7 @@
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='#'>
-	<img src=https://img.shields.io/badge/Discord-Mub%239838-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord = = = Mub#9838'>
+	<img src=https://img.shields.io/badge/Discord-Mub%232371-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord = = = Mub#9838'>
 	</a>
 </div>
 
